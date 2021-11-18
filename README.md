@@ -21,7 +21,7 @@ oilspillanalysis.ipynb ---contains the main code for the analysis
 database.csv--- a csv file containing the data used
 
 ### Results
-The story is told [here](https://medium.com@oladipodrachealpipeline-accidents-in-the-united-states-between-2013-and-2016-e9cb2c240cc9).
+The story is told [here](https://medium.com/@oladipodracheal/pipeline-accidents-in-the-united-states-between-2013-and-2016-e9cb2c240cc9).
 
 ### Acknowlegement
 kaggle for the data
