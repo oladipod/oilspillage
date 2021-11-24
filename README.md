@@ -1,4 +1,4 @@
-# Pipeline Accidents in the United States Between 2013 and 2016
+# Pipeline Accidents in the United States Between 2010 and 2016
 A descriptive and exploratory data analysis project to gain insights on reported pipeline accidents in the United States, using data from Kaggle (link in the notebook)
 
 ## Table of Contents
